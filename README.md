@@ -4,7 +4,7 @@
 ### Hello World 🌍
 -->
 
-<a href="#"><img src="fourInRow.svg" width="800" height="600"><a/>
+<a href="#" style="pointer-events: none;"><img src="fourInRow.svg" width="800" height="600"><a/>
 
 
 <!--
