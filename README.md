@@ -4,13 +4,8 @@
 ### Hello World 🌍
 -->
 
-<div align="center">
-	<br>
-	<a href="#">
-		<img src="fourInRow.svg" width="800" height="600">
-	</a>
-	<br>
-</div>
+<a href="#"><img src="fourInRow.svg" width="800" height="600"><a/>
+
 
 <!--
 **okasi/okasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
