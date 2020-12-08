@@ -237,7 +237,7 @@
 
         /* Draw outcome */
         form:valid .column > .column > .column > .column > .column > .column > .column > .column::after {
-          content: "It's a draw!";
+          content: "It's a draw! 🙈";
           z-index: 1;
           position: absolute;
           left: 0;
@@ -270,7 +270,7 @@
         input:nth-of-type(8):checked ~ .column > input:nth-of-type(6):checked ~ .column > input:nth-of-type(4):checked ~ .column > input:nth-of-type(2):checked ~ .column::after,
         input:nth-of-type(10):checked ~ .column > input:nth-of-type(8):checked ~ .column > input:nth-of-type(6):checked ~ .column > input:nth-of-type(4):checked ~ .column::after,
         input:nth-of-type(12):checked ~ .column > input:nth-of-type(10):checked ~ .column > input:nth-of-type(8):checked ~ .column > input:nth-of-type(6):checked ~ .column::after {
-          content: "Red wins! :)";
+          content: "Red wins! 🎉";
           z-index: 2;
           position: absolute;
           left: 0;
@@ -303,7 +303,7 @@
         input:nth-of-type(7):checked ~ .column > input:nth-of-type(5):checked ~ .column > input:nth-of-type(3):checked ~ .column > input:nth-of-type(1):checked ~ .column::after,
         input:nth-of-type(9):checked ~ .column > input:nth-of-type(7):checked ~ .column > input:nth-of-type(5):checked ~ .column > input:nth-of-type(3):checked ~ .column::after,
         input:nth-of-type(11):checked ~ .column > input:nth-of-type(9):checked ~ .column > input:nth-of-type(7):checked ~ .column > input:nth-of-type(5):checked ~ .column::after {
-          content: "Yellow wins! :)";
+          content: "Yellow wins! 🎉";
           z-index: 2;
           position: absolute;
           left: 0;
@@ -323,7 +323,7 @@
 
         /* Button style */
         button {
-          margin: 20px auto;
+          margin: 15px auto;
           border: none;
           border-radius: 999px;
           padding: 12px 18px;
