@@ -10,11 +10,10 @@
         h1 {
           margin: 0 0 15px;
           padding: 15px;
-          color: #fff;
+          color: black;
           font-size: 40px;
           font-weight: normal;
           text-align: center;
-          background-color: #1f90ff;
         }
 
         form {
@@ -326,13 +325,13 @@
         button {
           margin: 20px auto;
           border: none;
-          border-radius: 2px;
+          border-radius: 16px;
           padding: 12px 18px;
           font-size: 16px;
           text-transform: uppercase;
           cursor: pointer;
           color: #fff;
-          background: #2196f3 center;
+          background: green center;
           box-shadow: 0 0 4px #999;
           outline: none;
           transition: background 0.5s;
@@ -360,7 +359,7 @@
 			</style>
 
       <div class="container">
-        <h1>Pure CSS Connect 4</h1>
+        <h1>🔴 Pure CSS Connect Four 🟡</h1>
         <form>
           <div class="board">
             <div class="field">
@@ -882,11 +881,10 @@
             </div>
             <div class="front"></div>
           </div>
-          <button type="reset">New Game</button>
+          <button type="reset">Restart</button>
         </form>
       </div>
 
-
     </div>
-	</foreignObject>
+  </foreignObject>
 </svg>
