@@ -20,3 +20,4 @@ jobs:
           config_timezone: Europe/Stockholm
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          base: "header, community, metadata"
