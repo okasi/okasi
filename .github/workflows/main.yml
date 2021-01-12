@@ -22,4 +22,4 @@ jobs:
           plugin_isocalendar_duration: full-year
           base: "header, community, metadata"
           plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_stars_limit: 5
