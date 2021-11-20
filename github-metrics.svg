@@ -3526,7 +3526,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kong/insomnia</span>
-                                        <span>starred 15 days ago</span>
+                                        <span>starred 16 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The open-source, cross-platform API client for GraphQL, REST, and gRPC.</div>
@@ -3632,7 +3632,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fiatjaf/awesome-loginless</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Oct 21 2021</span>
                                     </div>
                                 </div>
                                 <div class="field description">an awesome list of internet services that don't require logins or registrations</div>
@@ -3770,7 +3770,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Nov 2021, 01:17:53 (timezone Europe/Stockholm) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 20 Nov 2021, 13:07:14 (timezone Europe/Stockholm) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
