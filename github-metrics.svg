@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -2230,7 +2230,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>atlassian/react-beautiful-dnd</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Apr 05 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">Beautiful and accessible drag and drop for lists with React</div>
@@ -2380,7 +2380,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 May 2022, 14:09:42 (timezone Europe/Stockholm) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 5 May 2022, 17:08:23 (timezone Europe/Stockholm) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
