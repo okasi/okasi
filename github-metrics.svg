@@ -2198,7 +2198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Last-times/CAKE-QoS-Script-OpenWrt</span>
-                                        <span>starred 8 days ago</span>
+                                        <span>starred 9 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CAKE QoS Script (OpenWrt)</div>
@@ -2389,7 +2389,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 4 Sept 2022, 17:05:14 (timezone Europe/Stockholm) with lowlighter/metrics@3.28.0-beta</span>
+                <span>Last updated 4 Sept 2022, 20:05:08 (timezone Europe/Stockholm) with lowlighter/metrics@3.28.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
