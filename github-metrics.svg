@@ -2130,7 +2130,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>toplenboren/simple-git-hooks</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A simple git hooks manager for small projects</div>
@@ -2183,7 +2183,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>novuhq/novu</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⭐ A fully functional real-time notification center for your web and react apps. The open-source notifications infrastructure that enables scheduled notifications, digest engine, user preferences, and delivers Email, SMS, Push and Chat ⚡</div>
@@ -2236,7 +2236,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vercel/ncc</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.</div>
@@ -2392,7 +2392,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Nov 2022, 07:06:17 (timezone Europe/Stockholm) with lowlighter/metrics@3.29.0-beta</span>
+                <span>Last updated 3 Nov 2022, 10:05:16 (timezone Europe/Stockholm) with lowlighter/metrics@3.29.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
