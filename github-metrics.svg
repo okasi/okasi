@@ -2145,7 +2145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/playwright</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.</div>
@@ -2198,7 +2198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>christophebe/serp</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Google Search SERP Scraper</div>
@@ -2245,7 +2245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chill117/proxy-lists</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Node.js module and CLI tool to get proxies from publicly available proxy lists.</div>
@@ -2298,7 +2298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>public-apis/public-apis</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collective list of free APIs</div>
@@ -2351,7 +2351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zyedidia/micro</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A modern and intuitive terminal-based text editor</div>
@@ -2401,7 +2401,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Nov 2022, 04:31:04 (timezone Europe/Stockholm) with lowlighter/metrics@3.29.0-beta</span>
+                <span>Last updated 6 Nov 2022, 07:05:24 (timezone Europe/Stockholm) with lowlighter/metrics@3.29.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
