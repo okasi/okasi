@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -2162,7 +2162,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>microsoft/playwright</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.</div>
@@ -2215,7 +2215,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>christophebe/serp</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Google Search SERP Scraper</div>
@@ -2262,7 +2262,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chill117/proxy-lists</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Node.js module and CLI tool to get proxies from publicly available proxy lists.</div>
@@ -2365,7 +2365,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Nov 2022, 01:18:39 (timezone Europe/Stockholm) with lowlighter/metrics@3.29.0-beta</span>
+                <span>Last updated 14 Nov 2022, 04:33:34 (timezone Europe/Stockholm) with lowlighter/metrics@3.29.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
