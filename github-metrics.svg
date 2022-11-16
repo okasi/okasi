@@ -2125,7 +2125,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PrismLauncher/PrismLauncher</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A custom launcher for Minecraft that allows you to easily manage multiple installations of Minecraft at once (Fork of MultiMC)</div>
@@ -2375,7 +2375,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Nov 2022, 07:05:41 (timezone Europe/Stockholm) with lowlighter/metrics@3.29.0-beta</span>
+                <span>Last updated 16 Nov 2022, 10:05:00 (timezone Europe/Stockholm) with lowlighter/metrics@3.29.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
