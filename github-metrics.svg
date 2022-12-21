@@ -2125,7 +2125,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lukasoppermann/design-tokens</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎨 Figma plugin to export design tokens to json in an amazon style dictionary compatible format.</div>
@@ -2178,7 +2178,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>amzn/style-dictionary</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A build system for creating cross-platform styles.</div>
@@ -2231,7 +2231,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>react-cosmos/react-cosmos</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sandbox for developing and testing UI components in isolation</div>
@@ -2284,7 +2284,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vessel-js/vessel</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">(Coming Soon) Framework-agnostic tool for building &amp; deploying fast apps/docs. Powered by Vite &amp; Vercel.</div>
@@ -2337,7 +2337,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dydxprotocol/v3-client</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TypeScript client for dYdX (v3 API).</div>
@@ -2387,7 +2387,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Dec 2022, 13:06:10 (timezone Europe/Stockholm) with lowlighter/metrics@3.31.0-beta</span>
+                <span>Last updated 21 Dec 2022, 16:05:04 (timezone Europe/Stockholm) with lowlighter/metrics@3.31.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
