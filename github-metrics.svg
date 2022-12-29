@@ -2130,7 +2130,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ton-community/ton-compiler</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">TON compilers binaries</div>
@@ -2177,7 +2177,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>toncenter/tonweb</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JavaScript SDK for TON (The Open Network)</div>
@@ -2230,7 +2230,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ava-labs/avalanche-types-rs</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Avalanche primitive types in Rust (experimental)</div>
@@ -2283,7 +2283,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ava-labs/avalanchejs</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Avalanche Platform JavaScript Library</div>
@@ -2336,7 +2336,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stellar/freighter</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stellar chrome extension</div>
@@ -2380,7 +2380,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Dec 2022, 01:20:05 (timezone Europe/Stockholm) with lowlighter/metrics@3.32.0-beta</span>
+                <span>Last updated 29 Dec 2022, 04:08:23 (timezone Europe/Stockholm) with lowlighter/metrics@3.32.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
