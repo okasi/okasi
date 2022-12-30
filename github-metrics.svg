@@ -2135,7 +2135,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jcjohnson/neural-style</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Torch implementation of neural style algorithm</div>
@@ -2188,7 +2188,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iperov/DeepFaceLive</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Real-time face swap for PC streaming or video calls</div>
@@ -2241,7 +2241,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>salesforce/CodeGen</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.</div>
@@ -2294,7 +2294,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fauxpilot/fauxpilot</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FauxPilot - an open-source GitHub Copilot server</div>
@@ -2398,7 +2398,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Dec 2022, 19:08:03 (timezone Europe/Stockholm) with lowlighter/metrics@3.32.0-beta</span>
+                <span>Last updated 30 Dec 2022, 22:07:34 (timezone Europe/Stockholm) with lowlighter/metrics@3.32.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
