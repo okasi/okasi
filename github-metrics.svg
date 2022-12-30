@@ -2135,7 +2135,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>salesforce/CodeGen</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.</div>
@@ -2188,7 +2188,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fauxpilot/fauxpilot</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FauxPilot - an open-source GitHub Copilot server</div>
@@ -2241,7 +2241,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KoboldAI/KoboldAI-Client</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2295,7 +2295,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zszazi/Deep-learning-in-cloud</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">List of Deep Learning Cloud Providers</div>
@@ -2342,7 +2342,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>doitintl/gpu-finder</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2387,7 +2387,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Dec 2022, 10:07:35 (timezone Europe/Stockholm) with lowlighter/metrics@3.32.0-beta</span>
+                <span>Last updated 30 Dec 2022, 13:08:58 (timezone Europe/Stockholm) with lowlighter/metrics@3.32.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
