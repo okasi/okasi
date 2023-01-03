@@ -2120,7 +2120,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>i18next/next-i18next</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The easiest way to translate your NextJs apps.</div>
@@ -2173,7 +2173,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dimitrov-adrian/directus-extension-editorjs-interface</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Block editor (Editor.js) interface for Directus 9</div>
@@ -2226,7 +2226,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jcjohnson/neural-style</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Torch implementation of neural style algorithm</div>
@@ -2279,7 +2279,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iperov/DeepFaceLive</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Real-time face swap for PC streaming or video calls</div>
@@ -2382,7 +2382,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Jan 2023, 13:09:46 (timezone Europe/Stockholm) with lowlighter/metrics@3.32.0-beta</span>
+                <span>Last updated 3 Jan 2023, 16:08:13 (timezone Europe/Stockholm) with lowlighter/metrics@3.32.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
