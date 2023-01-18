@@ -2125,7 +2125,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stellar/rs-soroban-sdk</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust SDK for Soroban Contracts.</div>
@@ -2178,7 +2178,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dolthub/dolt</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dolt – Git for Data</div>
@@ -2231,7 +2231,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codenotary/immudb</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history</div>
@@ -2387,7 +2387,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Jan 2023, 01:17:20 (timezone Europe/Stockholm) with lowlighter/metrics@3.32.0-beta</span>
+                <span>Last updated 18 Jan 2023, 04:05:41 (timezone Europe/Stockholm) with lowlighter/metrics@3.32.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
