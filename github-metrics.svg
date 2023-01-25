@@ -2125,7 +2125,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>diracdeltas/tweets</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">janky twitter replacement.</div>
@@ -2337,7 +2337,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>noah-nuebling/mac-mouse-fix</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Mac Mouse Fix - A simple way to make your mouse better.</div>
@@ -2387,7 +2387,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 Jan 2023, 10:05:00 (timezone Europe/Stockholm) with lowlighter/metrics@3.33.0-beta</span>
+                <span>Last updated 25 Jan 2023, 13:06:36 (timezone Europe/Stockholm) with lowlighter/metrics@3.33.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
