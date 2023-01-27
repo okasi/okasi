@@ -2135,7 +2135,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MozillaReality/unity-webxr-export</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Assets for creating WebXR-enabled Unity3D projects.</div>
@@ -2294,7 +2294,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dolthub/dolt</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Dolt – Git for Data</div>
@@ -2347,7 +2347,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>codenotary/immudb</span>
-                                        <span>starred 9 days ago</span>
+                                        <span>starred 10 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">immudb - immutable database based on zero trust, SQL and Key-Value, tamperproof, data change history</div>
@@ -2397,7 +2397,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Jan 2023, 07:05:22 (timezone Europe/Stockholm) with lowlighter/metrics@3.33.0-beta</span>
+                <span>Last updated 27 Jan 2023, 10:04:54 (timezone Europe/Stockholm) with lowlighter/metrics@3.33.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
