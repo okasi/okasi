@@ -2140,7 +2140,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mrdoob/three.js</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">JavaScript 3D Library.</div>
@@ -2193,7 +2193,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MozillaReality/unity-webxr-export</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Assets for creating WebXR-enabled Unity3D projects.</div>
@@ -2299,7 +2299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stellar/rs-soroban-sdk</span>
-                                        <span>starred 10 days ago</span>
+                                        <span>starred 11 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust SDK for Soroban Contracts.</div>
@@ -2402,7 +2402,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Jan 2023, 16:05:08 (timezone Europe/Stockholm) with lowlighter/metrics@3.33.0-beta</span>
+                <span>Last updated 28 Jan 2023, 19:04:53 (timezone Europe/Stockholm) with lowlighter/metrics@3.33.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
