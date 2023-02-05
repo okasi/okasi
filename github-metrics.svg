@@ -2139,7 +2139,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookresearch/fairseq</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Facebook AI Research Sequence-to-Sequence Toolkit written in Python.</div>
@@ -2192,7 +2192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>THUDM/GLM-130B</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)</div>
@@ -2245,7 +2245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hugozanini/yolov7-tfjs</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Object Detection using Yolov7 in tensorflow.js</div>
@@ -2298,7 +2298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CarperAI/trlx</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)</div>
@@ -2351,7 +2351,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>archinetai/audio-diffusion-pytorch</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Audio generation using diffusion models, in PyTorch.</div>
@@ -2401,7 +2401,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Feb 2023, 16:04:54 (timezone Europe/Stockholm) with lowlighter/metrics@3.33.0-beta</span>
+                <span>Last updated 5 Feb 2023, 19:05:01 (timezone Europe/Stockholm) with lowlighter/metrics@3.33.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
