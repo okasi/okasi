@@ -2115,7 +2115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookresearch/fairseq</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Facebook AI Research Sequence-to-Sequence Toolkit written in Python.</div>
@@ -2168,7 +2168,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>THUDM/GLM-130B</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)</div>
@@ -2221,7 +2221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hugozanini/yolov7-tfjs</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Object Detection using Yolov7 in tensorflow.js</div>
@@ -2377,7 +2377,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Feb 2023, 01:16:55 (timezone Europe/Stockholm) with lowlighter/metrics@3.33.0-beta</span>
+                <span>Last updated 6 Feb 2023, 04:05:08 (timezone Europe/Stockholm) with lowlighter/metrics@3.33.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
