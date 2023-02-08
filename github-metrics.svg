@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -2125,7 +2125,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>guillaume-be/rust-bert</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)</div>
@@ -2178,7 +2178,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TavernAI/TavernAI</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Atmospheric adventure chat shell for AI language models (KoboldAI, NovelAI, Pygmalion)</div>
@@ -2381,7 +2381,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Feb 2023, 13:06:24 (timezone Europe/Stockholm) with lowlighter/metrics@3.33.0-beta</span>
+                <span>Last updated 8 Feb 2023, 16:05:02 (timezone Europe/Stockholm) with lowlighter/metrics@3.33.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
