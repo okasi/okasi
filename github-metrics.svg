@@ -2130,7 +2130,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>runwayml/stable-diffusion</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Latent Text-to-Image Diffusion</div>
@@ -2183,7 +2183,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oobabooga/text-generation-webui</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A gradio web UI for running Large Language Models like LLaMA, llama.cpp, GPT-J, Pythia, OPT, and GALACTICA.</div>
@@ -2387,7 +2387,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 May 2023, 02:18:12 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 25 May 2023, 05:07:57 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
