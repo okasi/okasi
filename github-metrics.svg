@@ -2119,7 +2119,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pgvector/pgvector</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-source vector similarity search for Postgres</div>
@@ -2272,7 +2272,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>PostHog/posthog</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.</div>
@@ -2375,7 +2375,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 7 Jun 2023, 20:05:45 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 7 Jun 2023, 23:04:51 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
