@@ -2129,7 +2129,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dtinth/superwhite</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">display a very bright white color on HDR-enabled displays</div>
@@ -2224,7 +2224,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>pgvector/pgvector</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open-source vector similarity search for Postgres</div>
@@ -2374,7 +2374,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Jun 2023, 20:05:21 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 30 Jun 2023, 23:05:02 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
