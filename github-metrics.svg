@@ -2109,7 +2109,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tauri-apps/wry</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cross-platform WebView library in Rust for Tauri.</div>
@@ -2162,7 +2162,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sunny9577/proxy-scraper</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⭐️ A proxy scraper made using Protractor | Proxy list Updates every three hour 🔥</div>
@@ -2215,7 +2215,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mertguvencli/http-proxy-list</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">It is a lightweight project that, every 10 minutes, scrapes lots of free-proxy sites, validates if it works, and serves a clean proxy list.</div>
@@ -2268,7 +2268,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>iw4p/proxy-scraper</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">scrape proxies from more than 5 different sources and check which ones are still alive</div>
@@ -2315,7 +2315,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tauri-apps/tauri</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build smaller, faster, and more secure desktop applications with a web frontend.</div>
@@ -2365,7 +2365,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Jul 2023, 05:05:06 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 24 Jul 2023, 08:05:34 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
