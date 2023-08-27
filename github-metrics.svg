@@ -2145,7 +2145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wpengine/wp-graphql-content-blocks</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Plugin that extends WPGraphQL to support querying (Gutenberg) Blocks as data</div>
@@ -2198,7 +2198,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>run-llama/LlamaIndexTS</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">LlamaIndex is a data framework for your LLM applications</div>
@@ -2304,7 +2304,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>gpbl/react-day-picker</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DayPicker is a customizable date picker component for React, with native TypeScript support.</div>
@@ -2395,7 +2395,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Aug 2023, 08:05:32 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
+                <span>Last updated 27 Aug 2023, 11:04:53 (timezone Europe/Stockholm) with lowlighter/metrics@3.34.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
