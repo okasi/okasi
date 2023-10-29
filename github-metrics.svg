@@ -2192,7 +2192,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>vytal-io/vytal-extension</span>
-                                        <span>starred 14 days ago</span>
+                                        <span>starred 15 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Browser extension to spoof timezone, geolocation, locale and user agent.</div>
@@ -2402,7 +2402,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Oct 2023, 10:05:01 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 29 Oct 2023, 13:06:01 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
