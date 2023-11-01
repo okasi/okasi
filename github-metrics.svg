@@ -2125,7 +2125,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>BuilderIO/partytown</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Relocate resource intensive third-party scripts off of the main thread and into a web worker. 🎉</div>
@@ -2178,7 +2178,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>EricLBuehler/candle-lora</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Low rank adaptation (LoRA) for Candle.</div>
@@ -2231,7 +2231,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>michmich112/sveltekit-adapter-chrome-extension</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Sveltekit adapter for making chrome extensions</div>
@@ -2284,7 +2284,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mozilla/webextension-polyfill</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A lightweight polyfill library for Promise-based WebExtension APIs in Chrome</div>
@@ -2337,7 +2337,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mattsse/chromiumoxide</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Chrome Devtools Protocol rust API</div>
@@ -2387,7 +2387,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Nov 2023, 04:05:18 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 1 Nov 2023, 07:05:26 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
