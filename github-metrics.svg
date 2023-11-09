@@ -2130,7 +2130,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>estruyf/vscode-front-matter</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Front Matter is a CMS running straight in Visual Studio Code. Can be used with static site generators like Hugo, Jekyll, Hexo, NextJs, Gatsby, and many more...</div>
@@ -2183,7 +2183,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rehypejs/rehype-remark</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">plugin to transform from HTML (rehype) to Markdown (remark)</div>
@@ -2236,7 +2236,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>abrahamjuliot/creepjs</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Creepy device and browser fingerprinting</div>
@@ -2289,7 +2289,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NikolaiT/IP-Address-API</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This repository contains instructions how to use the free IP Address API. The databases are: ASN database, Geolocation database, hosting ranges database.</div>
@@ -2386,7 +2386,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Nov 2023, 19:05:37 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 9 Nov 2023, 22:04:56 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
