@@ -2130,7 +2130,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>OpenBuddy/OpenBuddy</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Open Multilingual Chatbot for Everyone</div>
@@ -2183,7 +2183,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lancedb/lancedb</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Developer-friendly, serverless vector database for AI applications. Easily add long-term memory to your LLM apps!</div>
@@ -2236,7 +2236,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Stevenic/vectra</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vectra is a local vector database for Node.js with features similar to pinecone but built using local files.</div>
@@ -2392,7 +2392,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Nov 2023, 07:05:35 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 16 Nov 2023, 10:05:08 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
