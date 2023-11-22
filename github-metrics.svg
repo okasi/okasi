@@ -2125,7 +2125,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lfre/next-13-preact</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Patch Next.js 13 to use Preact</div>
@@ -2172,7 +2172,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>preactjs/signals</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Manage state with style in every framework</div>
@@ -2375,7 +2375,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Nov 2023, 19:05:10 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 22 Nov 2023, 22:04:57 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
