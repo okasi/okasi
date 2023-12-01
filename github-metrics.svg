@@ -2135,7 +2135,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>artidoro/qlora</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">QLoRA: Efficient Finetuning of Quantized LLMs</div>
@@ -2342,7 +2342,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lancedb/lancedb-vercel-chatbot</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Build an AI chatbot with website context retrieved from a vector store like LanceDB.</div>
@@ -2386,7 +2386,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 1 Dec 2023, 13:06:40 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 1 Dec 2023, 16:05:16 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
