@@ -2135,7 +2135,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wevm/wagmi</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React Hooks for Ethereum</div>
@@ -2188,7 +2188,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fastify/fastify</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast and low overhead web framework, for Node.js</div>
@@ -2241,7 +2241,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mateonunez/orama-cache</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This plugin provides a cache system for Orama. The cache system is based on async-cache-dedupe.</div>
@@ -2294,7 +2294,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mcollina/async-cache-dedupe</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Async cache with dedupe support</div>
@@ -2397,7 +2397,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Dec 2023, 04:05:02 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 15 Dec 2023, 07:05:40 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
