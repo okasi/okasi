@@ -2135,7 +2135,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fastify/fastify-helmet</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Important security headers for Fastify</div>
@@ -2188,7 +2188,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fastify/fastify-rate-limit</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A low overhead rate limiter for your routes</div>
@@ -2241,7 +2241,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fastify/fastify-http-proxy</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Proxy your http requests to another server, with hooks.</div>
@@ -2294,7 +2294,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fastify/fastify-throttle</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Throttle the download speed of a request</div>
@@ -2341,7 +2341,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wevm/wagmi</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">React Hooks for Ethereum</div>
@@ -2391,7 +2391,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Dec 2023, 19:05:25 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 15 Dec 2023, 22:04:54 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
