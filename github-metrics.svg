@@ -2120,7 +2120,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fastify/fastify-helmet</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Important security headers for Fastify</div>
@@ -2173,7 +2173,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fastify/fastify-rate-limit</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A low overhead rate limiter for your routes</div>
@@ -2226,7 +2226,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fastify/fastify-http-proxy</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Proxy your http requests to another server, with hooks.</div>
@@ -2279,7 +2279,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fastify/fastify-throttle</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Throttle the download speed of a request</div>
@@ -2360,7 +2360,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        774
+                                        775
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2376,7 +2376,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Dec 2023, 10:05:06 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 19 Dec 2023, 13:06:39 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
