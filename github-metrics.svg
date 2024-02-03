@@ -2140,7 +2140,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>duckdb/duckdb</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">DuckDB is an in-process SQL OLAP Database Management System</div>
@@ -2246,7 +2246,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>state-spaces/mamba</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2397,7 +2397,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Feb 2024, 01:16:06 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 3 Feb 2024, 04:05:33 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
