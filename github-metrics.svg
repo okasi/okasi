@@ -2272,7 +2272,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebookresearch/faiss</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A library for efficient similarity search and clustering of dense vectors.</div>
@@ -2369,7 +2369,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Jun 2024, 11:05:52 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 19 Jun 2024, 14:07:16 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
