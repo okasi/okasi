@@ -2193,7 +2193,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>femueller/cloud-ip-ranges</span>
-                                        <span>starred 17 days ago</span>
+                                        <span>starred 18 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An up-to-date export of cloud provider IP address ranges</div>
@@ -2390,7 +2390,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Jul 2024, 08:05:28 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 6 Jul 2024, 11:04:57 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
