@@ -2249,7 +2249,7 @@
                                         <span>starred 2 days ago</span>
                                     </div>
                                 </div>
-                                <div class="field description">Efficient Web Crawler and Scraper with AI Integration in Rust</div>
+                                <div class="field description">A web crawler and scraper with AI Integration for Rust</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2402,7 +2402,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 Sept 2024, 08:06:00 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 8 Sept 2024, 11:05:03 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
