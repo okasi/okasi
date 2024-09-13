@@ -2135,7 +2135,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>spider-rs/llm-readability</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The readability library for LLM's</div>
@@ -2188,7 +2188,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>napi-rs/napi-rs</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A framework for building compiled Node.js add-ons in Rust via Node-API</div>
@@ -2241,7 +2241,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>JohannesKaufmann/html-to-markdown</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">⚙️ Convert HTML to Markdown. Even works with entire websites and can be extended through rules.</div>
@@ -2294,7 +2294,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tesseract-ocr/tesseract</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 16 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tesseract Open Source OCR Engine (main repository)</div>
@@ -2347,7 +2347,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>scambier/obsidian-omnisearch</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.</div>
@@ -2397,7 +2397,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Sept 2024, 05:06:04 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 13 Sept 2024, 08:06:52 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
