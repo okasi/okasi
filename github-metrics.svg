@@ -2140,7 +2140,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>developit/redaxios</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Axios API, as an 800 byte Fetch wrapper.</div>
@@ -2193,7 +2193,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apify/got-scraping</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 21 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HTTP client made for scraping based on got.</div>
@@ -2397,7 +2397,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Sept 2024, 20:05:50 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 14 Sept 2024, 23:04:40 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
