@@ -2140,7 +2140,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>developit/redaxios</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Axios API, as an 800 byte Fetch wrapper.</div>
@@ -2193,7 +2193,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apify/got-scraping</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HTTP client made for scraping based on got.</div>
@@ -2240,7 +2240,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>askorama/chunker</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Split large texts into chunks with a maximum number of tokens. Split by fixed size or by sentence.</div>
@@ -2293,7 +2293,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>askorama/crawly</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2397,7 +2397,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Sept 2024, 08:05:55 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 14 Sept 2024, 11:04:59 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
