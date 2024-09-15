@@ -2245,7 +2245,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>askorama/chunker</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Split large texts into chunks with a maximum number of tokens. Split by fixed size or by sentence.</div>
@@ -2298,7 +2298,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>askorama/crawly</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2402,7 +2402,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Sept 2024, 11:05:10 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 15 Sept 2024, 14:07:10 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
