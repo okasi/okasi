@@ -2120,7 +2120,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>galvez/fastify-edge</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use Fastify idioms for writing Cloudflare Workers and Bun servers</div>
@@ -2167,7 +2167,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fastify/fastify-vite</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fastify plugin for Vite integration.</div>
@@ -2370,7 +2370,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Sept 2024, 20:06:16 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 Sept 2024, 23:04:55 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
