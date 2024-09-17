@@ -2120,7 +2120,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>MeetKai/functionary</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 20 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Chat language model that can use tools and interpret the results</div>
@@ -2173,7 +2173,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>developit/redaxios</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The Axios API, as an 800 byte Fetch wrapper.</div>
@@ -2226,7 +2226,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>apify/got-scraping</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">HTTP client made for scraping based on got.</div>
@@ -2377,7 +2377,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Sept 2024, 02:16:45 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 Sept 2024, 05:05:43 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
