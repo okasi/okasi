@@ -2125,7 +2125,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>huggingface/transformers.js-examples</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A collection of 🤗 Transformers.js demos and example applications</div>
@@ -2178,7 +2178,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>electric-sql/pglite</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Lightweight WASM Postgres with real-time, reactive bindings.</div>
@@ -2231,7 +2231,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>galvez/fastify-edge</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use Fastify idioms for writing Cloudflare Workers and Bun servers</div>
@@ -2278,7 +2278,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fastify/fastify-vite</span>
-                                        <span>starred 14 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fastify plugin for Vite integration.</div>
@@ -2381,7 +2381,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 18 Sept 2024, 05:06:11 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 18 Sept 2024, 08:07:14 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
