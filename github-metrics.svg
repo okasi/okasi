@@ -2125,7 +2125,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fastify/fastify-redis</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Plugin to share a common Redis connection across Fastify.</div>
@@ -2178,7 +2178,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>fastify/fastify-schedule</span>
-                                        <span>starred 12 hours ago</span>
+                                        <span>starred 15 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fastify plugin for scheduling periodic jobs.</div>
@@ -2381,7 +2381,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Oct 2024, 02:20:35 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 2 Oct 2024, 05:09:01 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
