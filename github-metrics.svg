@@ -2299,7 +2299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mlc-ai/web-stable-diffusion</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.</div>
@@ -2352,7 +2352,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ngxson/wllama</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">WebAssembly binding for llama.cpp - Enabling in-browser LLM inference</div>
@@ -2402,7 +2402,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 5 Oct 2024, 17:05:48 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 5 Oct 2024, 20:05:54 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
