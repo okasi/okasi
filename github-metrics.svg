@@ -2145,7 +2145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dottxt-ai/outlines</span>
-                                        <span>starred 5 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Structured Text Generation</div>
@@ -2304,7 +2304,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>openai/swarm</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.</div>
@@ -2357,7 +2357,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>youseai/openai-swarm-node</span>
-                                        <span>starred 13 days ago</span>
+                                        <span>starred 14 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Swarm.js is a Node.js implementation of OpenAI’s experimental Swarm framework. This SDK allows developers to orchestrate multi-agent systems using OpenAI’s API in a lightweight and ergonomic way, while leveraging Node.js for building scalable, real-world applications.</div>
@@ -2401,7 +2401,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Oct 2024, 19:06:04 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 27 Oct 2024, 22:05:01 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
