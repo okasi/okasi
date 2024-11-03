@@ -2145,7 +2145,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>3b1b/videos</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 11 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Code for the manim-generated scenes used in 3blue1brown videos</div>
@@ -2407,7 +2407,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Nov 2024, 01:23:02 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 3 Nov 2024, 04:13:12 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
