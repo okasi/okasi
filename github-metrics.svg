@@ -2125,7 +2125,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>DavidWittman/requests-random-user-agent</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Configures the requests library to randomly select a desktop User-Agent</div>
@@ -2178,7 +2178,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lwthiker/curl-impersonate</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">curl-impersonate: A special build of curl that can impersonate Chrome &amp; Firefox</div>
@@ -2231,7 +2231,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mozilla/simulated-devices</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A catalog of common web-enabled devices.</div>
@@ -2278,7 +2278,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Lennolium/simple-useragent</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Seamlessly fetch authentic and current user agents with ease.</div>
@@ -2331,7 +2331,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jnrbsn/user-agents</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Latest user agent strings for major browsers and OSs; checks for updates daily</div>
@@ -2375,7 +2375,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 11 Dec 2024, 01:22:52 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 11 Dec 2024, 04:18:54 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
