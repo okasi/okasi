@@ -2236,7 +2236,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mozilla/simulated-devices</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A catalog of common web-enabled devices.</div>
@@ -2283,7 +2283,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Lennolium/simple-useragent</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Seamlessly fetch authentic and current user agents with ease.</div>
@@ -2336,7 +2336,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>jnrbsn/user-agents</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Latest user agent strings for major browsers and OSs; checks for updates daily</div>
@@ -2380,7 +2380,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Dec 2024, 13:09:05 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 12 Dec 2024, 16:05:45 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
