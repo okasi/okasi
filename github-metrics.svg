@@ -2119,7 +2119,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SaFoLab-WISC/InjecGuard</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The official implementation of the paper "InjecGuard: Benchmarking and Mitigating Over-defense in Prompt Injection Guardrail Models".</div>
@@ -2225,7 +2225,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Marker-Inc-Korea/AutoRAG</span>
-                                        <span>starred 12 days ago</span>
+                                        <span>starred 13 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">AutoRAG: An Open-Source Framework for Retrieval-Augmented Generation (RAG) Evaluation &amp; Optimization with AutoML-Style Automation</div>
@@ -2259,7 +2259,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        590
+                                        591
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2331,7 +2331,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>rolldown/rolldown</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.</div>
@@ -2381,7 +2381,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Jan 2025, 10:05:27 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 29 Jan 2025, 13:08:19 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
