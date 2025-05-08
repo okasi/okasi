@@ -2124,7 +2124,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>glizzykingdreko/PerimeterX-Captcha-WASM</span>
-                                        <span>starred 23 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Node.js-based emulation of the WebAssembly component of the PerimeterX Captcha script. This project replicates the WASM operations from the original PerimeterX Captcha, making it accessible for Node.js applications.</div>
@@ -2380,7 +2380,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 8 May 2025, 14:09:19 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 8 May 2025, 17:06:16 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
