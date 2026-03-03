@@ -2120,7 +2120,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>block/goose</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM</div>
@@ -2226,7 +2226,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>upstash/context7</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors</div>
@@ -2279,7 +2279,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dontriskit/awesome-ai-system-prompts</span>
-                                        <span>starred 2 days ago</span>
+                                        <span>starred 3 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI.</div>
@@ -2376,7 +2376,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 3 Mar 2026, 01:33:21 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 3 Mar 2026, 04:50:12 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
