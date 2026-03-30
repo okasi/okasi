@@ -2309,7 +2309,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Pickle-Pixel/HydraTeams</span>
-                                        <span>starred 11 days ago</span>
+                                        <span>starred 12 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Translation proxy that makes Claude Code Agent Teams model-agnostic. Any model as a teammate — GPT, Gemini, Ollama — with full Claude Code tooling.</div>
@@ -2359,7 +2359,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Mar 2026, 14:24:28 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 30 Mar 2026, 17:32:20 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
