@@ -2134,7 +2134,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>irons163/codex-pool-manager</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A macOS app for managing multiple Codex accounts, switching active auth quickly, and tracking usage in one dashboard.</div>
@@ -2181,7 +2181,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Soju06/codex-lb</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Codex/ChatGPT multiple account load balancer &amp; proxy with usage tracking, dashboard, and OpenCode-compatible endpoints</div>
@@ -2234,7 +2234,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Blueemi/codex-eu-patcher</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2282,7 +2282,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bnurbekov/company-email-validator</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Checks whether an email is a company email (useful for B2B forms)</div>
@@ -2386,7 +2386,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 May 2026, 14:26:56 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 16 May 2026, 17:25:40 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
