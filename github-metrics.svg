@@ -2130,7 +2130,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>andthattoo/structured-cot</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Structured Chain-of-Thought</div>
@@ -2177,7 +2177,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Kaden-Schutt/hipfire</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">RDNA-native LLM inference engine in Rust.</div>
@@ -2230,7 +2230,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>stevibe/BenchLocal</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 19 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Test LLMs on real tasks. Compare models side-by-side.</div>
@@ -2283,7 +2283,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dodo-reach/hermes-desktop</span>
-                                        <span>starred 21 hours ago</span>
+                                        <span>starred 24 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The safest, simplest way to manage Hermes from your Mac. Pure SSH. No gateways, no exposed ports, no browser layer.</div>
@@ -2336,7 +2336,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>oramasearch/oramacore</span>
-                                        <span>starred 22 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">OramaCore is the complete runtime you need for your projects, answer engines, copilots, and search. It includes a fully-fledged full-text search engine, vector database, LLM interface, and many more utilities.</div>
@@ -2386,7 +2386,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 May 2026, 15:14:28 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 21 May 2026, 18:07:05 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
