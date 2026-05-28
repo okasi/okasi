@@ -2130,7 +2130,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kessler/gemma</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run Google's Gemma 4 models entirely on-device, embedded in a Node.js process. Text, image, and audio in — text out. No API keys, no cloud, no network required after the initial model download.</div>
@@ -2177,7 +2177,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>okfse/openup.okfn.se</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Website for the Open Up! project</div>
@@ -2224,7 +2224,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>civictechsweden/g0vse</span>
-                                        <span>starred 15 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Making information from regeringen.se more accessible</div>
@@ -2381,7 +2381,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 May 2026, 02:51:07 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 28 May 2026, 06:30:30 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
