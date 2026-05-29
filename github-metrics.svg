@@ -2241,7 +2241,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kessler/gemma</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Run Google's Gemma 4 models entirely on-device, embedded in a Node.js process. Text, image, and audio in — text out. No API keys, no cloud, no network required after the initial model download.</div>
@@ -2385,7 +2385,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 May 2026, 20:56:52 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 29 May 2026, 23:37:57 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
