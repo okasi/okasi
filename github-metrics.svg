@@ -2120,7 +2120,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ratatui/ratatui</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 6 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs</div>
@@ -2173,7 +2173,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yelixir-dev/grok-oauth-proxy</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2227,7 +2227,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kenryu42/open-grok-build</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use Grok Build, Grok Composer 2.5 Fast model in OpenCode</div>
@@ -2280,7 +2280,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tradingview/lightweight-charts</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Performant financial charts built with HTML5 canvas</div>
@@ -2333,7 +2333,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lineofflight/frankfurter</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">💱 Currency data API</div>
@@ -2383,7 +2383,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jun 2026, 03:09:16 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 16 Jun 2026, 06:38:36 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
