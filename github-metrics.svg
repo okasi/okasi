@@ -2338,7 +2338,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tradingview/lightweight-charts</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Performant financial charts built with HTML5 canvas</div>
@@ -2388,7 +2388,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 17 Jun 2026, 20:55:18 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 Jun 2026, 23:41:40 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
