@@ -2115,7 +2115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sveltia/sveltia-cms</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Git-based headless CMS. Successor to Netlify CMS (now Decap CMS). Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source &amp; free.</div>
@@ -2168,7 +2168,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>getgrav/grav</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony</div>
@@ -2377,7 +2377,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Jun 2026, 12:39:33 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 29 Jun 2026, 15:35:37 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
