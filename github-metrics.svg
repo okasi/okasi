@@ -2115,7 +2115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>SeraphimSerapis/tool-eval-bench</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Tool-calling quality benchmark for LLM serving stacks. 80+ deterministic scenarios testing multi-turn orchestration, safety boundaries, and structured output. Supports vLLM, SGLang, and llama.cpp.</div>
@@ -2168,7 +2168,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sveltia/sveltia-cms</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Git-based headless CMS. Successor to Netlify CMS (now Decap CMS). Modern UX, first-class i18n support, mobile support + 100s of improvements. Framework-agnostic, open source &amp; free.</div>
@@ -2221,7 +2221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>getgrav/grav</span>
-                                        <span>starred 10 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modern, Crazy Fast, Ridiculously Easy and Amazingly Powerful Flat-File CMS powered by PHP, Markdown, Twig, and Symfony</div>
@@ -2274,7 +2274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>weliveinhell/source-engine</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Modified source engine (2017) developed by valve and leaked in 2020. Not for commercial purporses</div>
@@ -2377,7 +2377,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 29 Jun 2026, 20:46:21 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 29 Jun 2026, 23:33:59 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
