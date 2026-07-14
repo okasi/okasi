@@ -2120,7 +2120,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>tiagozip/cap</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Free, open-source and self-hosted CAPTCHA alternative to reCAPTCHA. Privacy-first and powered by proof-of-work and instrumentation challenges.</div>
@@ -2173,7 +2173,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sml2h3/ddddocr</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">带带弟弟 通用验证码识别OCR pypi版</div>
@@ -2226,7 +2226,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>daijro/browserforge</span>
-                                        <span>starred 19 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🎭 Intelligent browser header &amp; fingerprint generator</div>
@@ -2279,7 +2279,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>CloakHQ/CloakBrowser</span>
-                                        <span>starred 20 hours ago</span>
+                                        <span>starred 22 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.</div>
@@ -2382,7 +2382,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Jul 2026, 07:31:38 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 14 Jul 2026, 10:06:46 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
