@@ -2115,7 +2115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>memN0ps/illusion-rs</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rusty Hypervisor - Windows UEFI Blue Pill Type-1 Hypervisor in Rust (Codename: Illusion)</div>
@@ -2168,7 +2168,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ufrisk/pcileech</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Direct Memory Access (DMA) Attack Software</div>
@@ -2221,7 +2221,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ufrisk/pcileech-fpga</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">FPGA modules used together with the PCILeech Direct Memory Access (DMA) Attack Software</div>
@@ -2268,7 +2268,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>backengineering/ring-1.io</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Deobfuscation and Analysis of Ring-1.io</div>
@@ -2353,7 +2353,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Jul 2026, 21:44:15 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 21 Jul 2026, 00:00:04 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
