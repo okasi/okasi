@@ -2140,7 +2140,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>adamallcock/tibotattle</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Privacy-first monitoring for Codex allowance value. TiboTattle reads the session metadata that Codex already stores on your Mac, reconstructs your usage at standard API prices, and compares it with the quota movement your provider reports — so you can see where your allowance stands.</div>
@@ -2193,7 +2193,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NerfTrack/NerfTrack</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Local Tauri desktop app for tracking Codex usage and estimating API-equivalent weekly value</div>
@@ -2299,7 +2299,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>xai-org/grok-build</span>
-                                        <span>starred 6 days ago</span>
+                                        <span>starred 7 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.</div>
@@ -2396,7 +2396,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 22 Aug 2026, 20:31:14 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 22 Aug 2026, 23:22:23 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
