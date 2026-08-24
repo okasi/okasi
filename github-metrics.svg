@@ -2115,7 +2115,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>uNetworking/uWebSockets</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 14 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Simple, secure &amp; standards compliant web server for the most demanding of applications</div>
@@ -2274,7 +2274,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>thedavidweng/gork-build</span>
-                                        <span>starred 7 days ago</span>
+                                        <span>starred 8 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">An independent, community-maintained distribution of SpaceXAI's Grok Build coding agent, with vendor telemetry and branding removed.</div>
@@ -2377,7 +2377,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Aug 2026, 11:47:59 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 24 Aug 2026, 14:51:07 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
