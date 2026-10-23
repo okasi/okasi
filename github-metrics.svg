@@ -2135,7 +2135,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>context-dot-dev/sgrep</span>
-                                        <span>starred 13 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -2189,7 +2189,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>zvec-ai/zvec-grep</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Local-first search across your workspace, built for humans and AI agents.</div>
@@ -2242,7 +2242,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>lightonai/next-plaid</span>
-                                        <span>starred 18 hours ago</span>
+                                        <span>starred 23 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">NextPlaid, ColGREP: Multi-vector search, from database to coding agents.</div>
@@ -2295,7 +2295,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>multigres/multigres</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Vitess for Postgres</div>
@@ -2398,7 +2398,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Oct 2026, 13:09:05 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 23 Oct 2026, 18:36:52 (timezone Europe/Stockholm) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
